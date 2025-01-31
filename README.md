@@ -14,9 +14,3 @@ Short description explaining the what, why, and how of your project.
 - [Contact](#contact)
 
 ## Installation
-Provide a step-by-step series of examples and explanations about how to get a development environment running.
-
-```bash
-git clone https://yourproject.git
-cd yourproject
-npm install
